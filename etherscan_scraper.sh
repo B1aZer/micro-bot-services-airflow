@@ -1,3 +1,4 @@
+cd /home/hipi/Sites/GooDee/nft-scraper
 node /home/hipi/Sites/GooDee/nft-scraper/scrape.js >> /home/hipi/Sites/GooDee/_airflow/etherscan_scraper.log
 status=$?
 ## repeat after 1m ## 
