@@ -1,1 +1,1 @@
-../twitter/mints.sh
+../twitter/os_new.sh
