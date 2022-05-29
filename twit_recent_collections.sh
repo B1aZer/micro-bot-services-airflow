@@ -1,0 +1,1 @@
+../twitter/mints.sh

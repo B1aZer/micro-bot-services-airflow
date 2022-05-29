@@ -1,4 +1,6 @@
 cd /home/hipi/Sites/GooDee/nft-scraper
+source ~/.nvm/nvm.sh
+nvm use v16.13.1 > /dev/null
 node /home/hipi/Sites/GooDee/nft-scraper/scrape.js >> /home/hipi/Sites/GooDee/_airflow/etherscan_scraper.log
 status=$?
 ## repeat after 1m ## 
