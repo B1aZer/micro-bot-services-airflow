@@ -1,0 +1,1 @@
+Executable jobs with logging intended to run from scheduler (cron/airflow).
